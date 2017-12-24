@@ -5,6 +5,7 @@
 - xgboost
 - matplotlib
 - seaborn
+- sci-kit learn
 
 numpy 和 pandas的代码采用 
 python2.7
